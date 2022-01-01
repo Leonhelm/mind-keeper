@@ -1,4 +1,4 @@
-# zettelkasten
+# mind keeper
 
 ## MVP:
 * Авторизация
